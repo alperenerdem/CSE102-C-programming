@@ -1,0 +1,8 @@
+100
+rotate 4 row 4 right
+rotate 5 row 20 left
+shrink
+rotate 0 column 75 up
+rotate 0 column 12 down
+shrink
+rotate 2 column 11 up
