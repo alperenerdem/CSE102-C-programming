@@ -4,11 +4,17 @@ You are going to write a complete C program which implements the following funct
 
 You are given a file which contains lines of character strings of various sizes. Your program should read the given file and locate the following 5 strings:
 
+
 Xanthos
+
 Patara
+
 Myra
+
 Arycanda
+
 Phaselis
+
 The 5 constant strings can appear vertically or horizontally. Once all the strings are found, your program should print their head position and the orientation to the terminal.
 
 Code it so that it reads a text file named input.txt
